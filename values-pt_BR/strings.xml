@@ -2,7 +2,7 @@
     <string name="clear_map">Limpar Mapa</string>
     <string name="banner_ad_unit_id">ca-app-pub-9879577400303327/4668582694</string>
     <string name="banner_ad_unit_id_overlay_screen">ca-app-pub-9879577400303327/4274532691</string>
-    <string name="trainer_login_description">!!NÃO USE SUA CONTA PRINCIPAÇ!!\n\nCrie uma conta separada no https://www.pokemon.com/us/pokemon-trainer-club/ just for this app and log-in with it.</string>
+    <string name="trainer_login_description">!!NÃO USE SUA CONTA PRINCIPAL!!\n\nCrie uma conta separada no https://www.pokemon.com/us/pokemon-trainer-club/ just for this app and log-in with it.</string>
     <string name="hint_trainer_username">Pokemon Trainer Club Nome de Usuário</string>
     <string name="hint_trainer_password">Pokemon Trainer Club Senha</string>
     <string name="filter_management">Gerenciamento de Filtros</string>
@@ -76,7 +76,7 @@
     <string name="support_us_summary">Apoie a gente mostrando um anúncio a cada 30 scans</string>
     <string name="support_us_title">Nos apoie</string>
     <string name="scan_unknown_error">Um erro ocorreu durante o scan, por favor contate o desenvolvedor</string>
-    <string name="account_banned">Conta = %s parece estar banida</string>
+    <string name="account_banned">A conta = %s parece estar banida</string>
     <string name="generic_login_error">Conta = %s got a login exception</string>
     <string name="niantic_login_error">Conta = %1$s : %2$s</string>
     <string name="no_account_error">Você não tem nenhuma conta ativa, adicione pelo menos uma</string>
@@ -97,25 +97,25 @@
     <string name="accounts_save_to_file_error">Error while writing accounts to file, verify you have given write and read permission</string>
     <string name="background_service_stopping">Stopping background service</string>
     <string name="background_service_starting">Starting background service, please wait</string>
-    <string name="select_all">Select all</string>
-    <string name="filter_saved">Filter saved</string>
-    <string name="show_on_map_min_iv"><![CDATA[Show on map when IV >=]]></string>
-    <string name="notifify_min_iv"><![CDATA[Notify when IV >=]]></string>
+    <string name="select_all">Selecionar todos</string>
+    <string name="filter_saved">Filtro salvo</string>
+    <string name="show_on_map_min_iv"><![CDATA[Mostrar no mapa quando o IV >=]]></string>
+    <string name="notifify_min_iv"><![CDATA[Notificar quando o IV >=]]></string>
     <string name="iv_threshold_hint">0</string>
-    <string name="map">Map</string>
-    <string name="notify">Notify</string>
+    <string name="map">Mapa</string>
+    <string name="notify">Notificar</string>
     <string name="iv">IV</string>
-    <string name="advanced_filter_description_title">Advanced Filter</string>
+    <string name="advanced_filter_description_title">Filtro Avançado</string>
     <string name="advanced_filter_description">To only configure the advanced filter for ONE Pokemon simply tap on its name</string>
-    <string name="failed_iv">(IV Failed)</string>
+    <string name="failed_iv">(IV Falhou)</string>
     <string name="background_scan">Background scan</string>
     <string name="background_scan_tuto">This will activate the background scan and send you notification when a Pokemon is found</string>
     <string name="clear_map_tuto">This will clear the map from all the Pokemon</string>
-    <string name="fixed_area">Fixed Area</string>
+    <string name="fixed_area">Área fixa</string>
     <string name="fix_area_tuto">This will allow you create a \"fixed\" area for your background scanning. To remove the area simply tap once on the circle it will open the fix area settings</string>
-    <string name="support_pokealert">Support PokeAlert</string>
+    <string name="support_pokealert">Apoie o PokeAlert</string>
     <string name="supper_pokealert_tuto">This is nice an advert :) Click on it if you wish to support PokeAlert</string>
-    <string name="overlaymap">OverlayMap</string>
+    <string name="overlaymap">Sobrepor Mapa</string>
     <string name="overlaymap_tuto">This opens an overlay map which can be used at the same time you play PokemonGO</string>
 
 
