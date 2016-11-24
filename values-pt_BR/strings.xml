@@ -10,7 +10,7 @@
     <string name="creds_not_valid">Nome de usuário e senha incorretos</string>
     <string name="add_extra_account_title">Adicionar contas extras</string>
     <string name="manage_accounts">Gerenciar Contas</string>
-    <string name="duplicate_account">Você já adicionou essa conta</string>
+    <string name="duplicate_account">Você já adicionou essa conta !</string>
     <string name="account_added">Conta Adicionada !</string>
     <string name="help_title">Ajuda</string>
     <string name="help_summary">Visite-nos no Twitter</string>
@@ -23,20 +23,20 @@
     <string name="pokemon_auto_despawn_title">Remover pokemon expirado</string>
     <string name="pokemon_time_display_title">Pokemon expiration type</string>
     <string name="load_from_file">Carregar a partir de um arquivo</string>
-    <string name="version_title">Clique para ver as novidades</string>
+    <string name="version_title">Clique aqui para ver as novidades</string>
     <string name="pokemon_name_title">Pokemon name language</string>
     <string name="ptc_login">Pokemon Trainer Login</string>
     <string name="google_login">Google Login</string>
-    <string name="caught_pokemon_management_title">Caught Pokemon Management</string>
-    <string name="use_fast_scan">Usar Scan Rápido</string>
+    <string name="caught_pokemon_management_title">Gerenciar pokemons capturados</string>
+    <string name="use_fast_scan">Usar o Fast Scam</string>
     <string name="delete_all">Deletar todos</string>
     <string name="use_fast_scan_summary">Fast Scan funciona solicitando resultados de outros scanners. Tenha em mente que os resultados não serão 100% precisos.</string>
     <string name="annoucement_title">Anúncios</string>
     <string name="background_service_settings">Configurações do background scan</string>
     <string name="save_log_file">Salvar Log (Apenas debug)</string>
     <string name="notification_sound">Som de notificação</string>
-    <string name="use_default_notification_sound_title">Use o som de notificação padrão</string>
-    <string name="use_default_notification_sound_summary">When activated your phone\'s default  sound will be used, otherwise one of the custom list bellow will be used</string>
+    <string name="use_default_notification_sound_title">Usar som de notificação padrão</string>
+    <string name="use_default_notification_sound_summary">Irá ativar o som padrão do aparelho quando ativado.</string>
     <string name="vibration_title">Vibração</string>
     <string name="vibration_summary">Ativar ou desativar vibração ao receber uma notificação</string>
     <string name="account_seems_banned">Essa conta parece estar banida!</string>
@@ -45,7 +45,7 @@
     <string name="password_hint">Senha PTC ou Senha Gmail</string>
     <string name="account_loaded">Conta carregada com sucesso</string>
     <string name="use_multi_area_scan_title">Multi área scan</string>
-    <string name="use_multi_area_scan_summary">Select multiple area that will be scanned by different accounts (this is an advance user feature and might get your accounts by faster if incorrectly)</string>
+    <string name="use_multi_area_scan_summary">Seleciona várias áreas que serão escaneadas por diferentes contas (Este é um recurso avançado, ele pode fazer suas contas serem banidas mais rapidamente se não for usado corretamente)</string>
     <string name="select_account_assigne_area">Selecione as contas para atribuir a essa área</string>
     <string name="next">Próximo</string>
     <string name="close">Fechar</string>
@@ -77,8 +77,8 @@
     <string name="support_us_title">Apoie o pokealert</string>
     <string name="scan_unknown_error">Ocorreu um erro durante o scan, por favor contate o desenvolvedor</string>
     <string name="account_banned">A conta = %s parece estar banida</string>
-    <string name="generic_login_error">Conta = %s got a login exception</string>
-    <string name="niantic_login_error">Conta = %1$s : %2$s</string>
+    <string name="generic_login_error">A conta = %s got a login exception</string>
+    <string name="niantic_login_error">A conta = %1$s : %2$s</string>
     <string name="no_account_error">Você não tem nenhuma conta ativa, adicione pelo menos uma</string>
     <string name="stop_scan_before_editing">Por favor pare o scan atual antes de iniciar o background scan</string>
     <string name="stop_scan_before_starting_manual">Por favor pare o background scan antes de iniciar o scan manual</string>
@@ -138,7 +138,7 @@
     <string name="has_lure">Possui lure</string>
     <string name="has_no_lure">Normal pokestop</string>
     <string name="pokestop">Pokestop</string>
-    <string name="overlaymap_not_available_for_device">Desculpe, mas a sobreposição de map não é compatível com o seu aparelho :(</string>
+    <string name="overlaymap_not_available_for_device">Desculpe, mas a sobreposição de mapa não é compatível com o seu aparelho :(</string>
     <string name="no_iv_for_fastscan">No IVs for FastScan Pokemon</string>
     <string name="requires_captcha">Captcha Requerido</string>
     <string name="captcha_resolve_intruction">O link do captcha foi salvo na sua área de transferência. Abra o navegador e cole o link</string>
@@ -190,7 +190,7 @@
     <string name="multi_filter_select_comment">Você está na seleção multipla. Estas opções serão configuradas para todos os pokemons que você selecionar</string>
     <string name="clone">Clone</string>
     <string name="no_whatsapp">Você não possui o aplicativo WhatsApp. Você não pode compartilhar esse pokemon</string>
-    <string name="no_available_account">Você não possui nenhuma conta disponível. Remova uma área ou remova algumas contas dela</string>
+    <string name="no_available_account">Você não possui nenhuma conta disponível. Remova uma área fixa ou remova algumas contas dela</string>
     <string name="quick_scan_tuto">Esse é o scan rápido. Geralmente é utilizado quando você quer escanear uma área rápidamente. Ele só irá escanear no circulo azul.</string>
     <string name="share_using">Compartilhe</string>
     <string name="creating_account">Criando conta</string>
